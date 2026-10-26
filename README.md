@@ -1,7 +1,7 @@
 # VoiceEase 🎙️
 
 ## Frontend preview
-
+ 
 VoiceEase is a React app built with Vite. To run it locally:
 
 ```bash
